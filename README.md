@@ -27,6 +27,6 @@ Scikit-learn → Machine Learning (KNN)
 -Apply KNN classifier
 -Evaluate model performance using accuracy, confusion matrix, and classification report
 
-📈 Results
+#Results
 The KNN model was successfully trained and tested.
 Achieved high accuracy 97% in detecting forged vs. genuine notes.
